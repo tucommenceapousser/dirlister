@@ -20,17 +20,13 @@ Welcome to the File Manager developed by TRHACKNON. This tool provides a user-fr
 
 2. Upload the files to your server.
 
-3. Set up your allowed file extensions in the PHP code.
+3. Ensure PHP is configured on your server.
 
-4. Customize the background, colors, and styles in the CSS.
-
-5. Ensure PHP is configured on your server.
-
-6. Access the tool through your browser.
+4. Access the tool through your browser.
 
 ## Usage
 
-- Open `index.php` in your browser.
+- Open `dirlister.php` in your browser.
 - Navigate through directories.
 - Enter the password to access protected subdirectories.
 - Click on files to view their content.
