@@ -33,7 +33,7 @@ Welcome to the File Manager developed by TRHACKNON. This tool provides a user-fr
 
 ## Screenshots
 
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot_2023-11-09-10-03-32-900_com.android.chrome-edit.jpg)
 
 ## Credits
 
