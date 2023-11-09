@@ -24,6 +24,8 @@ Welcome to the File Manager developed by TRHACKNON. This tool provides a user-fr
 
 4. Access the tool through your browser.
 
+PASSWORD = trkntrkn
+
 ## Usage
 
 - Open `dirlister.php` in your browser.
