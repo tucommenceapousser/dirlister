@@ -33,6 +33,18 @@ PASSWORD = trkntrkn
 - Enter the password to access protected subdirectories.
 - Click on files to view their content.
 
+
+**Mot de Passe :**
+
+   - Pour accéder aux sous-dossiers, un mot de passe est requis.
+   - Le mot de passe est défini dans le fichier `.env` sous le nom `pass`.
+   - Le webPath est défini dans le fichier `.env` sous le nom `path`.
+
+## Configuration
+
+Assurez-vous que le fichier `.env` contient le mot de passe nécessaire, le path web et est correctement configuré. En cas d'erreur, référez-vous aux messages d'erreur affichés.
+
+
 ## Screenshots
 
 ![Screenshot](Screenshot_2023-11-09-10-03-32-900_com.android.chrome-edit.jpg)
